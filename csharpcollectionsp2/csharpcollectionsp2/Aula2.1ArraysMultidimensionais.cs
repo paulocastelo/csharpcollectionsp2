@@ -8,7 +8,13 @@ namespace csharpcollectionsp2
 {
     class Aula2
     {
-        static void Main(string[] args)
+        static void Aula2Main(string[] args)
+        {
+
+            Console.ReadLine();
+        }
+
+        private static void Aula2_1()
         {
             int x = 3;
             int y = 3;
@@ -48,8 +54,6 @@ namespace csharpcollectionsp2
             resultados2[2, 2] = "Alemanha";
             resultados2[3, 2] = "Portugal";
             Imprime(x, y, resultados2);
-
-            Console.ReadLine();
         }
 
         private static void Imprime(int x, int y, string[,] resultados)

@@ -47,6 +47,8 @@
     <Compile Include="Aula1.2SortedDictionary.cs" />
     <Compile Include="Aula1.1SortedList.cs" />
     <Compile Include="Aula2.1ArraysMultidimensionais.cs" />
+    <Compile Include="Aula2.2JaggedArray.cs" />
+    <Compile Include="Aula3.1_ConsultandoCollections.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
