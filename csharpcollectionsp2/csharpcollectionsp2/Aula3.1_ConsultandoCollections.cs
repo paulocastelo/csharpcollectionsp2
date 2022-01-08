@@ -19,18 +19,10 @@ namespace csharpcollectionsp2
             Console.WriteLine("List<string> para List<object>:");
             IList<string> listaMeses = new List<string>
             {
-                "janeiro",
-                "fevereiro",
-                "março",
-                "abril",
-                "maio",
-                "junho",
-                "julho",
-                "agosto",
-                "setembro",
-                "outubro",
-                "novembro",
-                "dezembro"
+                "janeiro","fevereiro","março",
+                "abril","maio","junho",
+                "julho","agosto","setembro",
+                "outubro","novembro","dezembro"
             };
             //IList<object> listObj = listaMeses;
             Console.WriteLine();
